@@ -6,7 +6,7 @@
       "technologies": ["linux", "nginx", "typescript", "nextjs", "mongodb"],
       "link": "https://schutting-masters.com",
       "date": "Oct 2024 - Oct 2024",
-      "blob": "schutting.png"
+      "blob": "./schutting.png"
     },
     {
       "title": "pastore",
@@ -14,7 +14,7 @@
       "technologies": ["linux", "nginx", "typescript", "nextjs", "mongodb"],
       "link": "https://pastore.nl",
       "date": "Sep 2024 - Oct 2024",
-      "blob": "pastore.png"
+      "blob": "./pastore.png"
     }
   ]
 }
